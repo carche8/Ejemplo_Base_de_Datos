@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application. Ejemplo Base de Datos</string>
+    <string name="et_codigo">Campo para meter el código</string>
+    <string name="et_nombre">Campo para meter el nombre</string>
+    <string name="et_autor">Campo para meter el autor</string>
+    <string name="et_isbn">Campo para meter el ISBN</string>
+    <string name="et_editorial">Campo para meter la editorial</string>
+    <string name="btn_registrar">Botón para registrar la información</string>
+    <string name="btn_buscar">Botón para buscar la información</string>
+    <string name="btn_eliminar">Botón para eliminar la informacións</string>
+    <string name="btn_modificar">Botón para modificar la información</string>
+    </resources>
